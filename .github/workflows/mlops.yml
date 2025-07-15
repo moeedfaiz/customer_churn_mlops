@@ -2,7 +2,7 @@ name: Customer Churn MLOps CI
 
 on:
   push:
-    branches: [ main ]
+    branches: [ master ]
 
 jobs:
   train-and-track:
