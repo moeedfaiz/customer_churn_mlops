@@ -21,11 +21,10 @@ jobs:
       run: |
         python -m pip install --upgrade pip
         pip install -r requirements.txt
-        pip install dvc
 
     - name: Reproduce pipeline
       run: |
-        dvc pull
+        # dvc pull  ← Temporarily removed
         dvc repro
 
     - name: Show metrics
