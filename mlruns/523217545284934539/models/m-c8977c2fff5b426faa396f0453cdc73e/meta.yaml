@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/DELL/Desktop/customer_churn_mlops/mlruns/523217545284934539/models/m-c8977c2fff5b426faa396f0453cdc73e/artifacts
+creation_timestamp: 1752566903991
+experiment_id: '523217545284934539'
+last_updated_timestamp: 1752566912694
+model_id: m-c8977c2fff5b426faa396f0453cdc73e
+model_type: null
+name: random_forest_model
+source_run_id: 4083b654d02644828c94c77a58a70833
+status: 2
+status_message: null

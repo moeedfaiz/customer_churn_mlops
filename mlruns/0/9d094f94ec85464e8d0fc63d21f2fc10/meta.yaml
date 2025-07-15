@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/DELL/Desktop/customer_churn_mlops/mlruns/0/9d094f94ec85464e8d0fc63d21f2fc10/artifacts
+end_time: 1752565320740
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9d094f94ec85464e8d0fc63d21f2fc10
+run_name: learned-kite-843
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752565306485
+status: 3
+tags: []
+user_id: DELL

@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/DELL/Desktop/customer_churn_mlops/mlruns/523217545284934539/4083b654d02644828c94c77a58a70833/artifacts
+end_time: 1752566912712
+entry_point_name: ''
+experiment_id: '523217545284934539'
+lifecycle_stage: active
+run_id: 4083b654d02644828c94c77a58a70833
+run_name: funny-wasp-419
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752566903450
+status: 3
+tags: []
+user_id: DELL
